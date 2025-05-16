@@ -1,1 +1,1 @@
-# yasmin
+Repositório principal de projetos - Yasmin
